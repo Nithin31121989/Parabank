@@ -21,7 +21,7 @@ Features Covered
 - **GeckoDriver** (for Firefox)
 - **Eclipse IDE**
 
----
+
 
 ## ⚙️ Setup Instructions
 1. Install [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html).
